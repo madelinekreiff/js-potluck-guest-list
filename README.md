@@ -1,1 +1,0 @@
-# js-potluck-guest-list
